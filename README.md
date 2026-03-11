@@ -15,4 +15,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matiasus&repo=VS1053)](https://github.com/Matiasus/VS1053)
 
 ## Memory
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matiasus&repo=sd)](https://github.com/Matiasus/sd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matiasus&repo=SD)](https://github.com/Matiasus/SD)
